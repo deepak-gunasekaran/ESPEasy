@@ -3,6 +3,6 @@ Purpose is to do automatic changes after merge, commit and checkout.
 
 Those files are for a Linux-like environment with basic tools ln, grep, sed and bash.
 
-Windows users can see them as template.
+Windows users can see them as templates.
 
 To use them simply copy those files into your ESPEasy/.git/hooks directory.
